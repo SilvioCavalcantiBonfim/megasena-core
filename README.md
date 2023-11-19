@@ -1,0 +1,1 @@
+# megasena-core
